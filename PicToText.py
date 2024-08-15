@@ -26,4 +26,4 @@ def image_to_text(image_path, output_file):
             file.write("\n")  # Newline after each row
 
 
-image_to_text(r"C:\Users\DELL\my vscode\cpp for real\convertPicToacii\mages\WhatsApp Image 2024-08-15 at 15.27.20_c298887a.jpg", r"C:\Users\DELL\my vscode\cpp for real\convertPicToacii\mages\image.txt")
+image_to_text(r" "your image.jpg path" ", r" "path image.txt" ")

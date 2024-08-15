@@ -13,8 +13,8 @@ std::string grayscaleToASCII(int grayscale) {
 
 int main() {
     // File paths
-    std::string input_file = R"(C:\Users\DELL\my vscode\cpp for real\convertPicToacii\mages\image.txt)";
-    std::string output_file = R"(C:\Users\DELL\my vscode\cpp for real\convertPicToacii\mages\ACII art.txt)";
+    std::string input_file = R"(image.txt)"; //path image.text
+    std::string output_file = R"(ACII art.txt)"; //path ACII art.text
 
     std::ifstream infile(input_file);
     std::ofstream outfile(output_file);
